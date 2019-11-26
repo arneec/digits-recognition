@@ -22,4 +22,13 @@ The code and images are placed inside 'code' directory.
 -  ```python main.py```
 
 
+## Configuration
+
+Configure the test image to predict by changing the variable ```TEST_IMAGE``` in code/config.py.
+
+### Steps
+- First place your image to code/images directory.
+- Change the ```TEST_IMAGE``` attribute in code/config.py to match your newly placed image full name ( with extension ).
+- Then run the main.py file as described above.
+
 For thorough explanation of logic, watch the video [here](https://www.youtube.com/watch?v=hB6IlpqHy-o).
