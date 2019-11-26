@@ -13,13 +13,16 @@ This program uses a dataset for training from sklearn.datasets.load_digits(). Fr
 The code and images are placed inside 'code' directory.
 
 > Install all the requirements required to run the program. On the root directory of this project.
-- ``` pip install -r requirements.txt ```
+
+``` pip install -r requirements.txt ```
 
 > Navigate to code directory.
-- ``` cd code```
+
+``` cd code```
 
 > Run the program.
--  ```python main.py```
+
+```python main.py```
 
 
 ## Configuration
